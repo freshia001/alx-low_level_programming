@@ -1,1 +1,1 @@
-The program should return 0
+0. _putchar
